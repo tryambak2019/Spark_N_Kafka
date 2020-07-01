@@ -33,7 +33,7 @@ Complete the Twitter Hashtag example using your own Twitter Developer Account
 
 ### Task #5 : Kafka Stream for Tracking Bitcoin Prices
 
-Use Kafka stream to track bitcoin prices on https://blockchain.info/ticker
+Use Kafka stream to track bitcoin prices on https://blockchain.info/ticker  
 (original author : https://github.com/mkukreja1/datauniversity)
 
 ### Task #6 : Spark Stream for ETL on Bitcoin Prices
